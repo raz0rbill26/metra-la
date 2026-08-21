@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Datasets and Generated Outputs
+data/
+output/
+*.h5
+*.pkl
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
+.python-version
+
+# Temporary files
+temp/
+
+# Logs
+.logs/
+
+# Local agent rules
+AGENTS.md
